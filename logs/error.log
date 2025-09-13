@@ -6,3 +6,12 @@
 {"level":"error","message":"No token provided","timestamp":"2025-09-13 01:04:02"}
 {"level":"error","message":"No token provided","timestamp":"2025-09-13 01:18:08"}
 {"level":"error","message":"Create order failed: ProductImage is not defined, Stack: ReferenceError: ProductImage is not defined\n    at createOrder (C:\\Users\\PC\\Desktop\\client-code\\promise-backend\\src\\controllers\\ordercontroller.js:155:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-13 01:21:19"}
+{"level":"error","message":"Payment not found for reference: callback","timestamp":"2025-09-13 01:41:03"}
+{"level":"error","message":"Payment not found for reference: callback","timestamp":"2025-09-13 01:44:01"}
+{"level":"error","message":"Payment not found for reference: callback","timestamp":"2025-09-13 01:46:06"}
+{"level":"error","message":"Failed to send email to test2877@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:09"}
+{"level":"error","message":"Failed to send email to test27@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:09"}
+{"level":"error","message":"Failed to send email to test287@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:09"}
+{"level":"error","message":"Failed to send email to test22@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:10"}
+{"level":"error","message":"Failed to send email to test22@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:45:00"}
+{"level":"error","message":"Failed to send email to test287@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:45:15"}

@@ -122,3 +122,173 @@
 {"level":"info","message":"Logger initialized","timestamp":"2025-09-13 01:39:43"}
 {"level":"info","message":"Database connected","timestamp":"2025-09-13 01:39:46"}
 {"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 01:39:46"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 01:40:03"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 01:40:05"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 01:40:05"}
+{"level":"info","message":"Order created: 98ce78ea-bb0a-4303-bc30-bdf3cd77bf51, Payment initialized: order-1757724018254-kxdvm2h","timestamp":"2025-09-13 01:40:24"}
+{"level":"error","message":"Payment not found for reference: callback","timestamp":"2025-09-13 01:41:03"}
+{"level":"info","message":"Order created: dbb783cd-a01c-49b9-986c-14e8a7629d7f, Payment initialized: order-1757724212756-um6m5rf","timestamp":"2025-09-13 01:43:37"}
+{"level":"error","message":"Payment not found for reference: callback","timestamp":"2025-09-13 01:44:01"}
+{"level":"info","message":"Payment successful: order-1757724212756-um6m5rf","timestamp":"2025-09-13 01:44:05"}
+{"level":"info","message":"Order created: e1cafbe7-0529-403b-be85-3acaa67e9ab0, Payment initialized: order-1757724342035-2og817t","timestamp":"2025-09-13 01:45:46"}
+{"level":"error","message":"Payment not found for reference: callback","timestamp":"2025-09-13 01:46:06"}
+{"level":"info","message":"Payment successful: order-1757724342035-2og817t","timestamp":"2025-09-13 01:46:09"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:06:28"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:06:34"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:06:34"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:07:55"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:07:57"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:07:57"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:08:17"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:08:19"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:08:19"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:08:56"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:08:57"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:08:57"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:14:42"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:14:44"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:14:44"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-13 02:15:19"}
+{"level":"info","message":"No recipients found for bulk email","timestamp":"2025-09-13 02:15:20"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-13 02:16:58"}
+{"level":"warn","message":"Email attempt 1 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:02"}
+{"level":"warn","message":"Email attempt 1 failed for test2877@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:02"}
+{"level":"warn","message":"Email attempt 1 failed for test22@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:02"}
+{"level":"warn","message":"Email attempt 1 failed for test27@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:02"}
+{"level":"info","message":"Email sent to test2@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:17:02"}
+{"level":"warn","message":"Email attempt 2 failed for test22@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:06"}
+{"level":"warn","message":"Email attempt 2 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:06"}
+{"level":"warn","message":"Email attempt 2 failed for test27@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:06"}
+{"level":"warn","message":"Email attempt 2 failed for test2877@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:06"}
+{"level":"warn","message":"Email attempt 3 failed for test2877@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:09"}
+{"level":"error","message":"Failed to send email to test2877@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:09"}
+{"level":"warn","message":"Email attempt 3 failed for test27@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:09"}
+{"level":"error","message":"Failed to send email to test27@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:09"}
+{"level":"warn","message":"Email attempt 3 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:09"}
+{"level":"error","message":"Failed to send email to test287@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:09"}
+{"level":"warn","message":"Email attempt 3 failed for test22@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:10"}
+{"level":"error","message":"Failed to send email to test22@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:17:10"}
+{"level":"info","message":"Bulk email results: 1 sent, 4 failed","timestamp":"2025-09-13 02:17:10"}
+{"level":"info","message":"Bulk email sent: 1 succeeded, 4 failed","timestamp":"2025-09-13 02:17:10"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:24:17"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:24:22"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:24:22"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:24:26"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:24:27"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:24:27"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:24:36"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:24:37"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:24:37"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:25:02"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:25:04"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:25:04"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-13 02:25:22"}
+{"level":"info","message":"Sending bulk email to 5 recipients (target: all_users)","timestamp":"2025-09-13 02:25:23"}
+{"level":"warn","message":"Email attempt 1 failed for test2@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:25:26"}
+{"level":"info","message":"Retrying email to test2@example.com after 2000ms","timestamp":"2025-09-13 02:25:26"}
+{"level":"info","message":"Email sent to test22@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:25:26"}
+{"level":"warn","message":"Email attempt 2 failed for test2@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:25:31"}
+{"level":"info","message":"Retrying email to test2@example.com after 4000ms","timestamp":"2025-09-13 02:25:31"}
+{"level":"info","message":"Email sent to test2@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:25:38"}
+{"level":"info","message":"Waiting 5000ms before next batch","timestamp":"2025-09-13 02:25:38"}
+{"level":"warn","message":"Email attempt 1 failed for test27@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:25:46"}
+{"level":"info","message":"Retrying email to test27@example.com after 2000ms","timestamp":"2025-09-13 02:25:46"}
+{"level":"warn","message":"Email attempt 1 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:25:46"}
+{"level":"info","message":"Retrying email to test287@example.com after 2000ms","timestamp":"2025-09-13 02:25:46"}
+{"level":"warn","message":"Email attempt 2 failed for test27@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:25:51"}
+{"level":"info","message":"Retrying email to test27@example.com after 4000ms","timestamp":"2025-09-13 02:25:51"}
+{"level":"info","message":"Email sent to test287@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:25:51"}
+{"level":"warn","message":"Email attempt 3 failed for test27@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:25:58"}
+{"level":"info","message":"Retrying email to test27@example.com after 8000ms","timestamp":"2025-09-13 02:25:58"}
+{"level":"info","message":"Email sent to test27@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:26:09"}
+{"level":"info","message":"Waiting 5000ms before next batch","timestamp":"2025-09-13 02:26:09"}
+{"level":"warn","message":"Email attempt 1 failed for test2877@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:26:17"}
+{"level":"info","message":"Retrying email to test2877@example.com after 2000ms","timestamp":"2025-09-13 02:26:17"}
+{"level":"info","message":"Email sent to test2877@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:26:22"}
+{"level":"info","message":"Bulk email results: 5 sent, 0 failed","timestamp":"2025-09-13 02:26:22"}
+{"level":"info","message":"Bulk email sent: 5 succeeded, 0 failed","timestamp":"2025-09-13 02:26:22"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:29:46"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:29:47"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:29:47"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:29:57"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:29:59"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:29:59"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:30:12"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:30:13"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:30:13"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-13 02:31:39"}
+{"level":"info","message":"Sending bulk email to 5 recipients (target: all_users)","timestamp":"2025-09-13 02:31:40"}
+{"level":"warn","message":"Email attempt 1 failed for test2@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:31:42"}
+{"level":"info","message":"Retrying email to test2@example.com after 2000ms","timestamp":"2025-09-13 02:31:42"}
+{"level":"info","message":"Email sent to test22@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:31:43"}
+{"level":"warn","message":"Email attempt 2 failed for test2@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:31:47"}
+{"level":"info","message":"Retrying email to test2@example.com after 4000ms","timestamp":"2025-09-13 02:31:47"}
+{"level":"info","message":"Email sent to test2@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:31:54"}
+{"level":"info","message":"Waiting 5000ms before next batch","timestamp":"2025-09-13 02:31:54"}
+{"level":"warn","message":"Email attempt 1 failed for test27@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:32:02"}
+{"level":"info","message":"Retrying email to test27@example.com after 2000ms","timestamp":"2025-09-13 02:32:02"}
+{"level":"warn","message":"Email attempt 1 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:32:02"}
+{"level":"info","message":"Retrying email to test287@example.com after 2000ms","timestamp":"2025-09-13 02:32:02"}
+{"level":"warn","message":"Email attempt 2 failed for test27@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:32:07"}
+{"level":"info","message":"Retrying email to test27@example.com after 4000ms","timestamp":"2025-09-13 02:32:07"}
+{"level":"info","message":"Email sent to test287@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:32:08"}
+{"level":"warn","message":"Email attempt 3 failed for test27@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:32:14"}
+{"level":"info","message":"Retrying email to test27@example.com after 8000ms","timestamp":"2025-09-13 02:32:14"}
+{"level":"info","message":"Email sent to test27@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:32:26"}
+{"level":"info","message":"Waiting 5000ms before next batch","timestamp":"2025-09-13 02:32:26"}
+{"level":"warn","message":"Email attempt 1 failed for test2877@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:32:33"}
+{"level":"info","message":"Retrying email to test2877@example.com after 2000ms","timestamp":"2025-09-13 02:32:33"}
+{"level":"info","message":"Email sent to test2877@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:32:39"}
+{"level":"info","message":"Bulk email results: 5 sent, 0 failed","timestamp":"2025-09-13 02:32:39"}
+{"level":"info","message":"Bulk email sent: 5 succeeded, 0 failed","timestamp":"2025-09-13 02:32:39"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:34:35"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:34:37"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:34:37"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:34:40"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:34:41"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:34:41"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:41:06"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:41:09"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:41:09"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:41:25"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:41:27"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:41:27"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:41:46"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:41:48"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:41:48"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:42:21"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:42:23"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:42:23"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:42:49"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:42:50"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:42:50"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:42:57"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:42:58"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:42:58"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:44:34"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:44:36"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:44:36"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-13 02:44:47"}
+{"level":"info","message":"Sending bulk email to 5 recipients (target: all_users)","timestamp":"2025-09-13 02:44:49"}
+{"level":"warn","message":"Email attempt 1 failed for test22@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:44:52"}
+{"level":"info","message":"Retrying email to test22@example.com after 1000ms","timestamp":"2025-09-13 02:44:52"}
+{"level":"info","message":"Email sent to test2@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:44:52"}
+{"level":"warn","message":"Email attempt 2 failed for test22@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:44:56"}
+{"level":"info","message":"Retrying email to test22@example.com after 2000ms","timestamp":"2025-09-13 02:44:56"}
+{"level":"warn","message":"Email attempt 3 failed for test22@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:45:00"}
+{"level":"error","message":"Failed to send email to test22@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:45:00"}
+{"level":"info","message":"Waiting 3000ms before next batch","timestamp":"2025-09-13 02:45:00"}
+{"level":"warn","message":"Email attempt 1 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:45:06"}
+{"level":"info","message":"Retrying email to test287@example.com after 1000ms","timestamp":"2025-09-13 02:45:06"}
+{"level":"info","message":"Email sent to test27@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:45:07"}
+{"level":"warn","message":"Email attempt 2 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:45:10"}
+{"level":"info","message":"Retrying email to test287@example.com after 2000ms","timestamp":"2025-09-13 02:45:10"}
+{"level":"warn","message":"Email attempt 3 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:45:15"}
+{"level":"error","message":"Failed to send email to test287@example.com after 3 attempts: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:45:15"}
+{"level":"info","message":"Waiting 3000ms before next batch","timestamp":"2025-09-13 02:45:15"}
+{"level":"info","message":"Email sent to test2877@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:45:22"}
+{"level":"info","message":"Bulk email results: 3 sent, 2 failed, 0 timed out","timestamp":"2025-09-13 02:45:22"}
+{"level":"info","message":"Bulk email sent: 3 succeeded, 2 failed, 0 timed out","timestamp":"2025-09-13 02:45:22"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:45:46"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:45:47"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:45:47"}
