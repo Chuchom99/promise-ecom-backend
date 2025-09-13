@@ -1,0 +1,8 @@
+{"level":"error","message":"Multer error: Unexpected field, Field: image","timestamp":"2025-09-12 21:06:24"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 00:54:33"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 00:54:33"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 00:58:14"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 01:00:42"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 01:04:02"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 01:18:08"}
+{"level":"error","message":"Create order failed: ProductImage is not defined, Stack: ReferenceError: ProductImage is not defined\n    at createOrder (C:\\Users\\PC\\Desktop\\client-code\\promise-backend\\src\\controllers\\ordercontroller.js:155:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-13 01:21:19"}

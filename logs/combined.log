@@ -1,0 +1,124 @@
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 10:35:08"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 10:35:33"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 10:50:43"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 10:51:01"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 10:55:22"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 10:55:44"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 10:56:09"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 10:57:00"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 10:57:38"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:01:26"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:01:33"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:01:37"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:01:46"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 11:02:45"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:11:46"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:12:00"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:12:05"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 11:12:23"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:15:37"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 11:16:04"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:18:18"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:18:27"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 11:18:54"}
+{"level":"info","message":"Category created: 0f8042b5-064a-4778-8a09-6772b2dd2fa3 (Wigs)","timestamp":"2025-09-12 11:22:37"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:33:17"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:33:38"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 11:36:03"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 11:36:25"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 20:56:57"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 20:57:40"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 21:04:16"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 21:04:21"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 21:05:18"}
+{"level":"error","message":"Multer error: Unexpected field, Field: image","timestamp":"2025-09-12 21:06:24"}
+{"level":"info","message":"Product created: f10cac86-1754-4734-bedf-48c7ad74ed52 (Brazilian Wig) with 2 images","timestamp":"2025-09-12 21:11:56"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 21:18:58"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 21:19:33"}
+{"level":"info","message":"Product created: 325efde2-67aa-40fd-b644-db0add698910 (Nigerian Wig) with 2 images","timestamp":"2025-09-12 21:19:49"}
+{"level":"info","message":"Fetched all products","timestamp":"2025-09-12 21:20:58"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 23:17:21"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 23:18:19"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 23:19:34"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 23:19:40"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 23:20:58"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 23:28:01"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 23:28:26"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 23:28:40"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 23:29:01"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 23:29:22"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 23:29:34"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 23:29:57"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 23:30:20"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 23:33:20"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 23:33:50"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 23:41:19"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-12 23:55:17"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-12 23:55:58"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:22:40"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 00:23:22"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:27:23"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 00:28:22"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:44:07"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:44:52"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:45:03"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:45:16"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:45:29"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:46:23"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:47:01"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:48:02"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:50:48"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:53:44"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 00:53:55"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 00:53:55"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 00:54:33"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 00:54:33"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:56:05"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 00:56:06"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 00:56:06"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:56:13"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 00:56:15"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 00:56:15"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:56:51"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 00:56:52"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 00:56:52"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:56:57"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 00:56:58"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 00:56:58"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:57:03"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 00:57:04"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 00:57:04"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 00:57:53"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 00:57:54"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 00:57:54"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 00:58:14"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 01:00:37"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 01:00:39"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 01:00:39"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 01:00:42"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 01:03:24"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 01:03:25"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 01:03:25"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 01:03:42"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 01:03:44"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 01:03:44"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 01:04:02"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 01:11:23"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 01:11:25"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 01:11:25"}
+{"level":"error","message":"No token provided","timestamp":"2025-09-13 01:18:08"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 01:21:02"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 01:21:08"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 01:21:08"}
+{"level":"error","message":"Create order failed: ProductImage is not defined, Stack: ReferenceError: ProductImage is not defined\n    at createOrder (C:\\Users\\PC\\Desktop\\client-code\\promise-backend\\src\\controllers\\ordercontroller.js:155:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-13 01:21:19"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 01:22:21"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 01:22:23"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 01:22:23"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 01:25:02"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 01:25:04"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 01:25:04"}
+{"level":"info","message":"Order created: a25d38af-1ae6-41e8-862b-e92b267b588c, Payment initialized: order-1757723248427-6p2ngh5","timestamp":"2025-09-13 01:27:36"}
+{"level":"info","message":"Order created: 3dd994aa-88d3-4451-ad03-7e42a911f14c, Payment initialized: order-1757723661389-avvscde","timestamp":"2025-09-13 01:34:26"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 01:39:43"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 01:39:46"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 01:39:46"}
