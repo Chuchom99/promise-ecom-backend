@@ -292,3 +292,119 @@
 {"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:45:46"}
 {"level":"info","message":"Database connected","timestamp":"2025-09-13 02:45:47"}
 {"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:45:47"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-13 02:46:15"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-13 02:46:16"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-13 02:46:16"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-13 02:47:00"}
+{"level":"info","message":"Sending bulk email to 5 recipients (target: all_users)","timestamp":"2025-09-13 02:47:00"}
+{"level":"warn","message":"Email attempt 1 failed for test2@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:03"}
+{"level":"info","message":"Retrying email to test2@example.com after 2000ms","timestamp":"2025-09-13 02:47:03"}
+{"level":"info","message":"Email sent to test22@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:47:04"}
+{"level":"warn","message":"Email attempt 2 failed for test2@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:08"}
+{"level":"info","message":"Retrying email to test2@example.com after 4000ms","timestamp":"2025-09-13 02:47:08"}
+{"level":"info","message":"Email sent to test2@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:47:15"}
+{"level":"info","message":"Waiting 5000ms before next batch","timestamp":"2025-09-13 02:47:15"}
+{"level":"warn","message":"Email attempt 1 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:23"}
+{"level":"info","message":"Retrying email to test287@example.com after 2000ms","timestamp":"2025-09-13 02:47:23"}
+{"level":"warn","message":"Email attempt 1 failed for test27@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:23"}
+{"level":"info","message":"Retrying email to test27@example.com after 2000ms","timestamp":"2025-09-13 02:47:23"}
+{"level":"warn","message":"Email attempt 2 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:28"}
+{"level":"info","message":"Retrying email to test287@example.com after 4000ms","timestamp":"2025-09-13 02:47:28"}
+{"level":"info","message":"Email sent to test27@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:47:29"}
+{"level":"warn","message":"Email attempt 3 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:35"}
+{"level":"info","message":"Retrying email to test287@example.com after 8000ms","timestamp":"2025-09-13 02:47:35"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-13 02:47:44"}
+{"level":"info","message":"Sending bulk email to 5 recipients (target: all_users)","timestamp":"2025-09-13 02:47:44"}
+{"level":"warn","message":"Email attempt 1 failed for test22@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:47"}
+{"level":"info","message":"Retrying email to test22@example.com after 2000ms","timestamp":"2025-09-13 02:47:47"}
+{"level":"warn","message":"Email attempt 1 failed for test2@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:47"}
+{"level":"info","message":"Retrying email to test2@example.com after 2000ms","timestamp":"2025-09-13 02:47:47"}
+{"level":"info","message":"Email sent to test287@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:47:47"}
+{"level":"info","message":"Waiting 5000ms before next batch","timestamp":"2025-09-13 02:47:47"}
+{"level":"warn","message":"Email attempt 2 failed for test2@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:52"}
+{"level":"info","message":"Retrying email to test2@example.com after 4000ms","timestamp":"2025-09-13 02:47:52"}
+{"level":"warn","message":"Email attempt 2 failed for test22@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:52"}
+{"level":"info","message":"Retrying email to test22@example.com after 4000ms","timestamp":"2025-09-13 02:47:52"}
+{"level":"warn","message":"Email attempt 1 failed for test2877@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:55"}
+{"level":"info","message":"Retrying email to test2877@example.com after 2000ms","timestamp":"2025-09-13 02:47:55"}
+{"level":"warn","message":"Email attempt 3 failed for test22@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:47:58"}
+{"level":"info","message":"Retrying email to test22@example.com after 8000ms","timestamp":"2025-09-13 02:47:58"}
+{"level":"info","message":"Email sent to test2@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:47:59"}
+{"level":"warn","message":"Email attempt 2 failed for test2877@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:48:00"}
+{"level":"info","message":"Retrying email to test2877@example.com after 4000ms","timestamp":"2025-09-13 02:48:00"}
+{"level":"warn","message":"Email attempt 3 failed for test2877@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:48:07"}
+{"level":"info","message":"Retrying email to test2877@example.com after 8000ms","timestamp":"2025-09-13 02:48:07"}
+{"level":"info","message":"Email sent to test22@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:48:11"}
+{"level":"info","message":"Waiting 5000ms before next batch","timestamp":"2025-09-13 02:48:11"}
+{"level":"warn","message":"Email attempt 4 failed for test2877@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:48:18"}
+{"level":"info","message":"Retrying email to test2877@example.com after 16000ms","timestamp":"2025-09-13 02:48:18"}
+{"level":"warn","message":"Email attempt 1 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:48:19"}
+{"level":"info","message":"Retrying email to test287@example.com after 2000ms","timestamp":"2025-09-13 02:48:19"}
+{"level":"warn","message":"Email attempt 1 failed for test27@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:48:19"}
+{"level":"info","message":"Retrying email to test27@example.com after 2000ms","timestamp":"2025-09-13 02:48:19"}
+{"level":"warn","message":"Email attempt 2 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:48:24"}
+{"level":"info","message":"Retrying email to test287@example.com after 4000ms","timestamp":"2025-09-13 02:48:24"}
+{"level":"info","message":"Email sent to test27@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:48:24"}
+{"level":"warn","message":"Email attempt 3 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:48:31"}
+{"level":"info","message":"Retrying email to test287@example.com after 8000ms","timestamp":"2025-09-13 02:48:31"}
+{"level":"info","message":"Email sent to test2877@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:48:37"}
+{"level":"info","message":"Bulk email results: 5 sent, 0 failed","timestamp":"2025-09-13 02:48:37"}
+{"level":"error","message":"Bulk email failed: Cannot read properties of undefined (reading 'length'), Stack: TypeError: Cannot read properties of undefined (reading 'length')\n    at sendBulkEmail (C:\\Users\\PC\\Desktop\\client-code\\promise-backend\\src\\controllers\\emailMarketing.js:52:111)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-13 02:48:37"}
+{"level":"warn","message":"Email attempt 4 failed for test287@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:48:42"}
+{"level":"info","message":"Retrying email to test287@example.com after 16000ms","timestamp":"2025-09-13 02:48:42"}
+{"level":"info","message":"Email sent to test287@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:49:01"}
+{"level":"info","message":"Waiting 5000ms before next batch","timestamp":"2025-09-13 02:49:01"}
+{"level":"warn","message":"Email attempt 1 failed for test2877@example.com: Data command failed: 550 5.7.0 Too many emails per second. Please upgrade your plan https://mailtrap.io/billing/plans/testing","timestamp":"2025-09-13 02:49:09"}
+{"level":"info","message":"Retrying email to test2877@example.com after 2000ms","timestamp":"2025-09-13 02:49:09"}
+{"level":"info","message":"Email sent to test2877@example.com: Special Offer on Hair Products","timestamp":"2025-09-13 02:49:14"}
+{"level":"info","message":"Bulk email results: 5 sent, 0 failed","timestamp":"2025-09-13 02:49:14"}
+{"level":"error","message":"Bulk email failed: Cannot read properties of undefined (reading 'length'), Stack: TypeError: Cannot read properties of undefined (reading 'length')\n    at sendBulkEmail (C:\\Users\\PC\\Desktop\\client-code\\promise-backend\\src\\controllers\\emailMarketing.js:52:111)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-13 02:49:14"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-19 10:11:17"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-19 10:12:48"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-19 10:12:49"}
+{"level":"error","message":"Invalid token: invalid token","timestamp":"2025-09-19 10:18:51"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-19 10:19:43"}
+{"level":"error","message":"Create product failed: sendBulkEmails is not a function, Stack: TypeError: sendBulkEmails is not a function\n    at createProduct (C:\\Users\\PC\\Desktop\\client-code\\promise-backend\\src\\controllers\\productController.js:140:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-19 10:19:47"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-19 10:21:14"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-19 10:21:32"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-19 10:21:32"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-19 10:21:50"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-19 10:22:04"}
+{"level":"info","message":"Email sent to new_subscriber@example.com: New Product Available!","timestamp":"2025-09-19 10:22:09"}
+{"level":"info","message":"Bulk email results: 1 sent, 0 failed","timestamp":"2025-09-19 10:22:09"}
+{"level":"info","message":"Product created: 985bf717-419a-4c31-b5a0-62273c5a4348 (Nigerian Red Wigs) with 2 images","timestamp":"2025-09-19 10:22:09"}
+{"level":"info","message":"Product not found: s","timestamp":"2025-09-19 10:25:25"}
+{"level":"info","message":"Product not found: s","timestamp":"2025-09-19 10:25:31"}
+{"level":"info","message":"Fetched 4 products","timestamp":"2025-09-19 10:25:36"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-19 10:26:43"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-19 10:27:01"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-19 10:29:36"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-19 10:30:06"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-19 10:41:49"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-19 10:42:00"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-19 10:42:00"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-19 10:42:52"}
+{"level":"info","message":"Attempting to update product: :f10cac86-1754-4734-bedf-48c7ad74ed52","timestamp":"2025-09-19 10:42:52"}
+{"level":"info","message":"Product not found: :f10cac86-1754-4734-bedf-48c7ad74ed52","timestamp":"2025-09-19 10:42:52"}
+{"level":"info","message":"Product not found: :f10cac86-1754-4734-bedf-48c7ad74ed52","timestamp":"2025-09-19 10:44:42"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-19 10:48:04"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-19 10:48:06"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-19 10:48:06"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-19 10:48:09"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-19 10:48:10"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-19 10:48:10"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-19 10:48:13"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-19 10:48:14"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-19 10:48:14"}
+{"level":"info","message":"Fetched product: f10cac86-1754-4734-bedf-48c7ad74ed52","timestamp":"2025-09-19 10:48:42"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-19 10:48:59"}
+{"level":"info","message":"Attempting to update product: f10cac86-1754-4734-bedf-48c7ad74ed52","timestamp":"2025-09-19 10:48:59"}
+{"level":"info","message":"Product updated: f10cac86-1754-4734-bedf-48c7ad74ed52 (Niger Red Wigs)","timestamp":"2025-09-19 10:48:59"}
+{"level":"info","message":"Authenticated user: fc2687e4-a586-40ff-ab2c-cc9c2ed5d77b","timestamp":"2025-09-19 10:49:55"}
+{"level":"info","message":"Product deleted: f10cac86-1754-4734-bedf-48c7ad74ed52","timestamp":"2025-09-19 10:49:55"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-19 10:50:21"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-19 10:50:22"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-19 10:50:22"}
+{"level":"info","message":"Logger initialized","timestamp":"2025-09-19 10:50:44"}
+{"level":"info","message":"Database connected","timestamp":"2025-09-19 10:50:45"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-09-19 10:50:45"}
